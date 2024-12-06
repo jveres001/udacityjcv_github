@@ -12,4 +12,4 @@ Describe what your project is about and what it does
 chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-Udacity all the way baby!!!
+Udacity all the way baby!!! I would also like to thank my company for allowing me to take this course.
