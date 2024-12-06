@@ -4,8 +4,7 @@
 This project and README file were both created on 12/6/2024.
 
 ### Project Title
-Replace the Project Title
-
+JCV Udacity Github Project
 ### Description
 Describe what your project is about and what it does
 
