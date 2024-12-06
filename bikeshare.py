@@ -47,7 +47,7 @@ def fetch_filters():
 def input_validated(prompt, options, case_insensitive=False):
     """
     Validates user's input against a set of options.
-    Args:
+    Args (arguments):
         prompt (str): Input prompt for the user
         options (iterable): Valid options for input
         case_insensitive (bool): Whether validation is case insensitive
