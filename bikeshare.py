@@ -1,5 +1,5 @@
 import time
-import pandas as pd
+import pandas as pd # type: ignore
 
 # Data file paths mapped to city names
 CITY_FILES = {
