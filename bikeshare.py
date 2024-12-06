@@ -52,7 +52,7 @@ def input_validated(prompt, options, case_insensitive=False):
         options (iterable): Valid options for input
         case_insensitive (bool): Whether validation is case insensitive
     Returns:
-        str: Validated user input
+        str (string): Validated user input
     """
     options = {option.lower() for option in options} if case_insensitive else set(options)
     while True:
